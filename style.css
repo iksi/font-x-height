@@ -1,0 +1,24 @@
+body {
+  font-family: Times New Roman, Verdana;
+}
+
+.fs {
+  padding: 0.5em;
+  font-size: 6em;
+}
+
+.fs__em {
+  background-color: blue;
+  font-size: 1em;
+}
+
+.fs__ex {
+  background-color: yellow;
+  font-size: 1ex;
+}
+
+.fs__button {
+  font-family: inherit;
+  font-size: inherit;
+  margin-top: 0.5em;
+}
