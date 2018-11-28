@@ -1,0 +1,29 @@
+body {
+  font: 1em / 1.5 Times New Roman, Verdana;
+  padding: 1.5em;
+  margin: 0;
+}
+
+button {
+  font: inherit;
+}
+
+button,
+.response:not(:empty) {
+  margin: 1.5em 0 0;
+}
+
+.wrapper {
+  font-size: 10em;
+  line-height: 1;
+}
+
+.em {
+  background-color: yellow;
+  font-size: 1em;
+}
+
+.ex {
+  background-color: cyan;
+  font-size: 1ex;
+}
